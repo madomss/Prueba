@@ -14,7 +14,7 @@
 			_poseeTurbo = poseeTurbo;
 		}
 
-		protected const double VELOCIDAD_MINIMA = 0;
+		protected const double VELOCIDAD_MINIMA = 5;
 
 		public abstract double ObtenerVelocidad();
 
