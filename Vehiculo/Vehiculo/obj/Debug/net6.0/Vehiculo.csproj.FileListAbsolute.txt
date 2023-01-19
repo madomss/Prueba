@@ -1,0 +1,15 @@
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\bin\Debug\net6.0\Vehiculo.exe
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\bin\Debug\net6.0\Vehiculo.deps.json
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\bin\Debug\net6.0\Vehiculo.runtimeconfig.json
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\bin\Debug\net6.0\Vehiculo.dll
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\bin\Debug\net6.0\Vehiculo.pdb
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.csproj.AssemblyReference.cache
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.AssemblyInfoInputs.cache
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.AssemblyInfo.cs
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.dll
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\refint\Vehiculo.dll
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.pdb
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\Vehiculo.genruntimeconfig.cache
+C:\Users\Manuel\Documents\Documentos Manuel\UCAB\Semestre Septiembre-Enero 2023\Desarrollo\Taller 2\Vehiculo\Vehiculo\Vehiculo\obj\Debug\net6.0\ref\Vehiculo.dll
