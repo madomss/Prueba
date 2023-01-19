@@ -14,13 +14,13 @@
 			_poseeTurbo = poseeTurbo;
 		}
 
-		protected const double VELOCIDAD_MINIMA = 5;
+		protected const double VELOCIDAD_MINIMA = 2000;
 
 		public abstract double ObtenerVelocidad();
 
 		public double ObtenerVelocidadBase()
 		{
-			return 4.0;
+			return 20000;
 		}
 	}
 
