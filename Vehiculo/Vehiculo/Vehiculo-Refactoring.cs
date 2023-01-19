@@ -20,7 +20,7 @@
 
 		public double ObtenerVelocidadBase()
 		{
-			return 12.0;
+			return 4.0;
 		}
 	}
 
